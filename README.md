@@ -1,7 +1,5 @@
 # Feed Reader Testing - Udacity Frontend Nanodegree Project #4
 
----
-
 In this project we test a web-based application that reads RSS feeds. We use [Jasmine][1] to test various aspects of the application.
 
 ## Objective
